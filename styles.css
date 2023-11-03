@@ -139,6 +139,11 @@ header > a {
     margin-top: 15px;
     
 }
+
+.fa-solid{
+    color: tomato;
+}
+
 /* style for pagination */
 .pagination {
     display: flex;
